@@ -12,7 +12,7 @@ Set up a script to install all of this stuff initially for me.
 - [ ] [bash-it](https://github.com/Bash-it/bash-it) - For Bash goodies.
 
 ## Things to do 
-- [ ] Create a Github SSH Key 
+- [ ] [Create a Github SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 
 ## Awesome Resources 
 - [ ] [Awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
