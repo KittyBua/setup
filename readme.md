@@ -7,7 +7,6 @@ Intended to be used as a checklist for things essential for me (or any developer
 Set up a script to install all of this stuff automagically. 
 
 ## Things to install
-- [ ] [keybase](https://keybase.io/)
 - [ ] [brew](https://brew.sh/) - package manager
 - [ ] [iterm2](https://sourabhbajaj.com/mac-setup/iTerm/) - better terminal 
   - [ ] Preferences -> Profiles -> Colors -> Color Presets -> Solarized Dark
