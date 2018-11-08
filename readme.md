@@ -8,22 +8,23 @@ Set up a script to install all of this stuff automagically.
 
 ## Things to install
 - [ ] [keybase](https://keybase.io/)
-- [ ] [brew](https://brew.sh/) 
-- [ ] [iterm2](https://sourabhbajaj.com/mac-setup/iTerm/)
+- [ ] [brew](https://brew.sh/) - package manager
+- [ ] [iterm2](https://sourabhbajaj.com/mac-setup/iTerm/) - better terminal 
   - [ ] Preferences -> Profiles -> Colors -> Color Presets -> Solarized Dark
-- [ ] [bash-it](https://github.com/Bash-it/bash-it) - For Bash goodies (auto-completion, themes, plugins, etc.). 
+- [ ] [bash-it](https://github.com/Bash-it/bash-it) - For Bash goodies (auto-completion, themes, plugins, etc.) - basic terminal completion, etc. 
       - Alternative [dot-files](https://dotfiles.github.io/).
-      - [mac-setup](https://sourabhbajaj.com/mac-setup/)
-- [ ] [slack](https://slack.com/downloads/osx)
-- [ ] [viscosity vpn](https://www.sparklabs.com/viscosity/download/)
-- [ ] [dropbox](https://www.dropbox.com/install)
-- [ ] [sublime text](https://www.sublimetext.com/3)
-- [ ] [spacevim](https://github.com/SpaceVim/SpaceVim)
-- [ ] [postman](https://www.getpostman.com/download?platform=mac&utm_source=site&utm_medium=apps&utm_campaign=macapp)
+      - [mac-setup](https://sourabhbajaj.com/mac-setup/) 
+- [ ] [slack](https://slack.com/downloads/osx) - messaging
+- [ ] [viscosity vpn](https://www.sparklabs.com/viscosity/download/) - connecting to vpn 
+- [ ] [dropbox](https://www.dropbox.com/install) - file syncing
+- [ ] [sublime text](https://www.sublimetext.com/3) - quick text editor
+- [ ] [spacevim](https://github.com/SpaceVim/SpaceVim) - vim config
+- [ ] [postman](https://www.getpostman.com/download?platform=mac&utm_source=site&utm_medium=apps&utm_campaign=macapp) - APIs
+- [ ] [sketch](https://www.sketchapp.com/get/) - quick mockups / UI
 
 ## Frontend Development 
-- [ ] [nvm](https://github.com/creationix/nvm)
-- [ ] [webstorm](https://www.jetbrains.com/webstorm/)
+- [ ] [nvm](https://github.com/creationix/nvm) - node version manager
+- [ ] [webstorm](https://www.jetbrains.com/webstorm/) - Javascript/Frontend IDE
   - [ ] Plugins: Material Theme UI, Tools -> Command Line Launcher
 - [ ] npm private registry -- login to your org's npm registry.
 
