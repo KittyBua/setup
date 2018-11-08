@@ -1,10 +1,10 @@
 # Setup
 
-Setup of mac dev environment. 
-Intended to be used as a checklist for things essential for a developer to install. 
+Everything you need to setup a mac dev environment from scratch. 
+Intended to be used as a checklist for things essential for me (or any developer) to install to be productive. 
 
 ## Things for the future
-Set up a script to install all of this stuff initially for me. 
+Set up a script to install all of this stuff automagically. 
 
 ## Things to install
 - [ ] [keybase](https://keybase.io/)
@@ -18,6 +18,8 @@ Set up a script to install all of this stuff initially for me.
 - [ ] [viscosity vpn](https://www.sparklabs.com/viscosity/download/)
 - [ ] [dropbox](https://www.dropbox.com/install)
 - [ ] [sublime text](https://www.sublimetext.com/3)
+- [ ] [spacevim](https://github.com/SpaceVim/SpaceVim)
+- [ ] [postman](https://www.getpostman.com/download?platform=mac&utm_source=site&utm_medium=apps&utm_campaign=macapp)
 
 ## Frontend Development 
 - [ ] [nvm](https://github.com/creationix/nvm)
