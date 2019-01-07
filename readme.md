@@ -38,3 +38,5 @@ Set up a script to install all of this stuff automagically.
 ## Awesome Resources 
 - [ ] [Awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 
+## Issues 
+- [ ] npm install doesn't work because of SSH keys. See 👉 https://github.com/npm/npm/issues/17228#issuecomment-346965324.
