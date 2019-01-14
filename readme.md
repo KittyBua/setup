@@ -29,6 +29,7 @@ Set up a script to install all of this stuff automagically.
 
 ## Things to do 
 - [ ] [Create a Github SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+- [ ] [GPG](https://github.com/pstadler/keybase-gpg-github)
 - [ ] Configure bash-it 
   - [ ] bash-it show aliases / bash-it show completions / bash-it show plugins
   - [ ] `BASH_IT_THEME='Zork'` # Set to fav theme
