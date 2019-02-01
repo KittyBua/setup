@@ -6,7 +6,7 @@ Intended to be used as a checklist for things essential for me (or any developer
 ## Things for the future
 Set up a script to install all of this stuff automagically. 
 
-## Things to install
+## Apps to install
 - [ ] [brew](https://brew.sh/) - package manager
 - [ ] [iterm2](https://sourabhbajaj.com/mac-setup/iTerm/) - better terminal 
   - [ ] Preferences -> Profiles -> Colors -> Color Presets -> Solarized Dark
@@ -35,6 +35,7 @@ Set up a script to install all of this stuff automagically.
   - [ ] `BASH_IT_THEME='Zork'` # Set to fav theme
 - [ ] [Show unread emails](http://osxdaily.com/2016/06/08/show-unread-emails-mail-mac/)
 - [ ] [Remap screenshot to clipboard] -> Go to System Preferences -> Keyboard -> Shortcuts -> Screen Shots
+- [ ] [Word jumping in iTerm](https://medium.com/@jonnyhaynes/jump-forwards-backwards-and-delete-a-word-in-iterm2-on-mac-os-43821511f0a)
 
 ## Awesome Resources 
 - [ ] [Awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
