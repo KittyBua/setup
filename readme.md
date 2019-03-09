@@ -3,10 +3,10 @@
 Everything you need to setup a mac dev environment from scratch. 
 Intended to be used as a checklist for things essential for me (or any developer) to install to be productive. 
 
-## Things for the future
+### Things for the future
 Set up a script to install all of this stuff automagically. 
 
-## Apps to install
+### Apps to install
 - [ ] [brew](https://brew.sh/) - package manager
 - [ ] [iterm2](https://sourabhbajaj.com/mac-setup/iTerm/) - better terminal 
   - [ ] Preferences -> Profiles -> Colors -> Color Presets -> Solarized Dark
@@ -21,7 +21,7 @@ Set up a script to install all of this stuff automagically.
 - [ ] [postman](https://www.getpostman.com/download?platform=mac&utm_source=site&utm_medium=apps&utm_campaign=macapp) - APIs
 - [ ] [sketch](https://www.sketchapp.com/get/) - quick mockups / UI
 
-## Frontend Development 
+### Frontend Development 
 - [ ] [nvm](https://github.com/creationix/nvm) - node version manager
 - [ ] [webstorm](https://www.jetbrains.com/webstorm/) - Javascript/Frontend IDE
   - [ ] Plugins: Material Theme UI, Tools -> Command Line Launcher
@@ -30,7 +30,7 @@ Set up a script to install all of this stuff automagically.
   - [ ] [Saved VS Code Extensions here](https://gist.github.com/leoww/aaa1d82c91851cd776d523fe2b539b65) (use Gist ID to import via code-settings-sync)
 - [ ] npm private registry -- login to your org's npm registry.
 
-## Things to do 
+### Things to do 
 - [ ] [Create a Github SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 - [ ] [GPG](https://github.com/pstadler/keybase-gpg-github)
 - [ ] Configure bash-it 
@@ -40,8 +40,8 @@ Set up a script to install all of this stuff automagically.
 - [ ] [Remap screenshot to clipboard] -> Go to System Preferences -> Keyboard -> Shortcuts -> Screen Shots
 - [ ] [Word jumping in iTerm](https://medium.com/@jonnyhaynes/jump-forwards-backwards-and-delete-a-word-in-iterm2-on-mac-os-43821511f0a)
 
-## Awesome Resources 
+### Awesome Resources 
 - [ ] [Awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 
-## Issues 
+### Issues 
 - [ ] npm install doesn't work because of SSH keys. See 👉 https://github.com/npm/npm/issues/17228#issuecomment-346965324.
