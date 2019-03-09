@@ -27,6 +27,7 @@ Set up a script to install all of this stuff automagically.
   - [ ] Plugins: Material Theme UI, Tools -> Command Line Launcher
 - [ ] [vscode](https://code.visualstudio.com/)
   - [ ] [Extensions](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
+  - [ ] [Saved VS Code Extensions here](https://gist.github.com/leoww/aaa1d82c91851cd776d523fe2b539b65) (use Gist ID to import via code-settings-sync)
 - [ ] npm private registry -- login to your org's npm registry.
 
 ## Things to do 
