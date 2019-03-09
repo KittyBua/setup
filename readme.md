@@ -25,6 +25,8 @@ Set up a script to install all of this stuff automagically.
 - [ ] [nvm](https://github.com/creationix/nvm) - node version manager
 - [ ] [webstorm](https://www.jetbrains.com/webstorm/) - Javascript/Frontend IDE
   - [ ] Plugins: Material Theme UI, Tools -> Command Line Launcher
+- [ ] [vscode](https://code.visualstudio.com/)
+  - [ ] [Extensions](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
 - [ ] npm private registry -- login to your org's npm registry.
 
 ## Things to do 
