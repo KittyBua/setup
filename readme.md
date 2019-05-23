@@ -42,6 +42,7 @@ Set up a script to install all of this stuff automagically.
 
 ### Awesome Resources 
 - [ ] [Awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
+- [ ] [Bash Profile vs Bashrc](https://superuser.com/questions/183870/difference-between-bashrc-and-bash-profile/183980#183980)
 
 ### Issues 
 - [ ] npm install doesn't work because of SSH keys. See 👉 https://github.com/npm/npm/issues/17228#issuecomment-346965324.
