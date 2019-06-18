@@ -11,9 +11,17 @@ Set up a script to install all of this stuff automagically.
 - [ ] [iterm2](https://sourabhbajaj.com/mac-setup/iTerm/) - better terminal 
   - [ ] Preferences -> Profiles -> Colors -> Color Presets -> Solarized Dark
 - [ ] [bash-it](https://github.com/Bash-it/bash-it) - For Bash goodies (auto-completion, themes, plugins, etc.) - basic terminal completion, etc. 
-      - [ ] Alternative [dot-files](https://dotfiles.github.io/).
-      - [ ] [mac-setup](https://sourabhbajaj.com/mac-setup/) 
-      - [ ] Run ```bash-it enable alias git curl clipboard homebrew homebrew-cask vim tmux osx atom npm```
+  - [ ] Alternative: [dot-files](https://dotfiles.github.io/).
+  - [ ] Alternative: [mac-setup](https://sourabhbajaj.com/mac-setup/) 
+  - [ ] Set up Bash-It: 
+   - [ ] ```bash 
+            bash-it enable alias git curl clipboard homebrew homebrew-cask vim tmux osx atom npm
+         ```
+   - [ ] ```bash
+            bash-it enable completion pip pip3 nvm npm maven makefile git gh bash-it brew
+         ```
+   - [ ] ```bash 
+             
 - [ ] [slack](https://slack.com/downloads/osx) - messaging
 - [ ] [viscosity vpn](https://www.sparklabs.com/viscosity/download/) - connecting to vpn 
 - [ ] [dropbox](https://www.dropbox.com/install) - file syncing
@@ -35,7 +43,7 @@ Set up a script to install all of this stuff automagically.
 - [ ] [Create a Github SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 - [ ] [GPG](https://github.com/pstadler/keybase-gpg-github)
 - [ ] Configure bash-it 
-  - [ ] bash-it show aliases / bash-it show completions / bash-it show plugins
+  - [ ] `bash-it show aliases` / `bash-it show completions` / `bash-it show plugins`
   - [ ] `BASH_IT_THEME='Zork'` # Set to fav theme
 - [ ] [Show unread emails](http://osxdaily.com/2016/06/08/show-unread-emails-mail-mac/)
 - [ ] [Remap screenshot to clipboard] -> Go to System Preferences -> Keyboard -> Shortcuts -> Screen Shots
