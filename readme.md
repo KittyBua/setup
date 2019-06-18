@@ -13,6 +13,7 @@ Set up a script to install all of this stuff automagically.
 - [ ] [bash-it](https://github.com/Bash-it/bash-it) - For Bash goodies (auto-completion, themes, plugins, etc.) - basic terminal completion, etc. 
       - Alternative [dot-files](https://dotfiles.github.io/).
       - [mac-setup](https://sourabhbajaj.com/mac-setup/) 
+      - ```bash-it enable alias git curl clipboard homebrew homebrew-cask vim tmux osx atom npm```
 - [ ] [slack](https://slack.com/downloads/osx) - messaging
 - [ ] [viscosity vpn](https://www.sparklabs.com/viscosity/download/) - connecting to vpn 
 - [ ] [dropbox](https://www.dropbox.com/install) - file syncing
