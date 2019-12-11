@@ -14,10 +14,10 @@ Set up a script to install all of this stuff automagically.
   - [ ] Alternative: [dot-files](https://dotfiles.github.io/).
   - [ ] Alternative: [mac-setup](https://sourabhbajaj.com/mac-setup/) 
   - [ ] Set up Bash-It: 
-   - [ ] ```bash 
+   - [ ] ``` 
             bash-it enable alias git curl clipboard homebrew homebrew-cask vim tmux osx atom npm
          ```
-   - [ ] ```bash
+   - [ ] ```
             bash-it enable completion pip pip3 nvm npm maven makefile git gh bash-it brew
          ```
              
