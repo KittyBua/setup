@@ -19,7 +19,9 @@ Set up a script to install all of this stuff automagically.
          ```
    - [ ] ```
             bash-it enable completion pip pip3 nvm npm maven makefile git gh bash-it brew
-         ```
+         ```        
+   - [ ] `bash-it show aliases` / `bash-it show completions` / `bash-it show plugins`
+   - [ ] `BASH_IT_THEME='Zork'` # Set to fav theme
              
 - [ ] [slack](https://slack.com/downloads/osx) - messaging
 - [ ] [viscosity vpn](https://www.sparklabs.com/viscosity/download/) - connecting to vpn 
@@ -41,9 +43,6 @@ Set up a script to install all of this stuff automagically.
 ### Things to do 
 - [ ] [Create a Github SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 - [ ] [GPG](https://github.com/pstadler/keybase-gpg-github)
-- [ ] Configure bash-it 
-  - [ ] `bash-it show aliases` / `bash-it show completions` / `bash-it show plugins`
-  - [ ] `BASH_IT_THEME='Zork'` # Set to fav theme
 - [ ] [Show unread emails](http://osxdaily.com/2016/06/08/show-unread-emails-mail-mac/)
 - [ ] [Remap screenshot to clipboard] -> Go to System Preferences -> Keyboard -> Shortcuts -> Screen Shots
 - [ ] [Word jumping in iTerm](https://medium.com/@jonnyhaynes/jump-forwards-backwards-and-delete-a-word-in-iterm2-on-mac-os-43821511f0a)
