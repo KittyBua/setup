@@ -30,6 +30,7 @@ Set up a script to install all of this stuff automagically.
 - [ ] [spacevim](https://github.com/SpaceVim/SpaceVim) - vim config
 - [ ] [postman](https://www.getpostman.com/download?platform=mac&utm_source=site&utm_medium=apps&utm_campaign=macapp) - APIs
 - [ ] [sketch](https://www.sketchapp.com/get/) - quick mockups / UI
+- [ ] [fzf](https://github.com/junegunn/fzf) - cli helper 
 
 ### Frontend Development 
 - [ ] [nvm](https://github.com/creationix/nvm) - node version manager
