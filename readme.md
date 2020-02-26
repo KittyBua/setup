@@ -47,6 +47,7 @@ Set up a script to install all of this stuff automagically.
 - [ ] [Show unread emails](http://osxdaily.com/2016/06/08/show-unread-emails-mail-mac/)
 - [ ] [Remap screenshot to clipboard] -> Go to System Preferences -> Keyboard -> Shortcuts -> Screen Shots
 - [ ] [Word jumping in iTerm](https://medium.com/@jonnyhaynes/jump-forwards-backwards-and-delete-a-word-in-iterm2-on-mac-os-43821511f0a)
+- [ ] [Fix the touchbar](https://medium.com/@svinkle/how-to-make-the-touch-bar-slightly-more-tolerable-857d29041f6a)
 
 ### Awesome Resources 
 - [ ] [Awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
