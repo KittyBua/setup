@@ -30,7 +30,9 @@ Set up a script to install all of this stuff automagically.
 - [ ] [spacevim](https://github.com/SpaceVim/SpaceVim) - vim config
 - [ ] [postman](https://www.getpostman.com/download?platform=mac&utm_source=site&utm_medium=apps&utm_campaign=macapp) - APIs
 - [ ] [sketch](https://www.sketchapp.com/get/) - quick mockups / UI
-- [ ] [fzf](https://github.com/junegunn/fzf) - cli helper 
+- [ ] [fzf](https://github.com/junegunn/fzf) - better ctrl-r search / cli steroid
+- [ ] [GIF Creator](https://apps.apple.com/us/app/crunchygif-ezpz-video-to-gif/id1485165995?mt=12)
+- [ ] [Flycut, Clipboard Management](https://apps.apple.com/us/app/flycut-clipboard-manager/id442160987)
 
 ### Frontend Development 
 - [ ] [nvm](https://github.com/creationix/nvm) - node version manager
