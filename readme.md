@@ -50,6 +50,8 @@ Set up a script to install all of this stuff automagically.
 - [ ] [Remap screenshot to clipboard] -> Go to System Preferences -> Keyboard -> Shortcuts -> Screen Shots
 - [ ] [Word jumping in iTerm](https://medium.com/@jonnyhaynes/jump-forwards-backwards-and-delete-a-word-in-iterm2-on-mac-os-43821511f0a)
 - [ ] [Fix the touchbar](https://medium.com/@svinkle/how-to-make-the-touch-bar-slightly-more-tolerable-857d29041f6a)
+- [ ] [Fix multi-monitor multi-mac hub setups](https://superuser.com/questions/1105308/mac-3-monitor-setup-my-desktop-set-keep-switching-places-between-monitors)
+- [ ] [Use a script to automate the fix upoon login](https://stackoverflow.com/questions/6442364/running-script-upon-login-mac) 
 
 ### Awesome Resources 
 - [ ] [Awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
