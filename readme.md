@@ -61,3 +61,6 @@ Set up a script to install all of this stuff automagically.
 
 ### Issues 
 - [ ] npm install doesn't work because of SSH keys. See 👉 https://github.com/npm/npm/issues/17228#issuecomment-346965324.
+
+### Cool Stuff
+- [ ] [Low-code apps / tooling thread](https://news.ycombinator.com/item?id=22786853)
